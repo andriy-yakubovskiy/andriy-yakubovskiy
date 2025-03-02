@@ -2,10 +2,10 @@
 
 ## 🛠️ Skills  
 
-- **Salesforce**: Apex, SOQL, DML, Triggers, Flow, LWC.
+- **Salesforce**: Apex, SOQL, DML, Triggers, Flow, LWC. **(Salesforce Certified)**
 - **Web Technologies**: HTML, CSS, JavaScript.
 - **Java**: OOP, basic knowledge (without big practical experience).  
-- **SQL**: Queries, data manipulation, database structure understanding.
+- **SQL**: Queries, data manipulation, database structure understanding (extensive experience).
 - **1C**: System configuration, data management, writing custom business logic code, writing custom scripts (extensive experience).  
 - **BAF (Business Application Framework)**: Business application development using BAF, writing custom scripts (extensive experience).  
 - **Tools**: VS Code, 1C/BAF, Git, GitHub...
