@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Andriy! 👋
 
-<!--
-**andriy-yakubovskiy/andriy-yakubovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills  
 
-Here are some ideas to get you started:
+- **Salesforce**: Apex, SOQL, DML, Triggers, Flow, LWC.
+- **Web Technologies**: HTML, CSS, JavaScript.
+- **Java**: OOP, basic knowledge (without big practical experience).  
+- **SQL**: Queries, data manipulation, database structure understanding.
+- **1C**: System configuration, data management, writing custom business logic code, writing custom scripts (extensive experience).  
+- **BAF (Business Application Framework)**: Business application development using BAF, writing custom scripts (extensive experience).  
+- **Tools**: VS Code, 1C/BAF, Git, GitHub...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacts  
+
+🔹 **LinkedIn**: [in/andrey-yakubovskyy](https://www.linkedin.com/in/andrey-yakubovskyy)
+🔹 **Salesforce Trailblazer**: [yakubovskyy](https://www.salesforce.com/trailblazer/yakubovskyy)
